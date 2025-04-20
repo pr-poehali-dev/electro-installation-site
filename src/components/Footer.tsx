@@ -36,7 +36,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>Телефон: +7 (XXX) XXX-XX-XX</li>
               <li>Email: info@namelectric.ru</li>
-              <li>Адрес: г. Москва, ул. Примерная, д. 123</li>
+              <li>Адрес: г. Сочи, ул. Примерная, д. 123</li>
             </ul>
           </div>
         </div>

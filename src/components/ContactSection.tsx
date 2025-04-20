@@ -42,7 +42,7 @@ const ContactSection = () => {
                 <MapPin className="h-6 w-6 text-blue-600 shrink-0" />
                 <div>
                   <h4 className="font-medium">Адрес</h4>
-                  <p className="text-gray-600">г. Москва, ул. Примерная, д. 123</p>
+                  <p className="text-gray-600">г. Сочи, ул. Примерная, д. 123</p>
                 </div>
               </div>
               
