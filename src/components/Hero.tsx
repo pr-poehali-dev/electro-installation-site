@@ -13,12 +13,9 @@ const Hero = () => {
             Мы предоставляем полный спектр электромонтажных работ для жилых, 
             коммерческих и промышленных объектов с гарантией качества.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4">
+          <div>
             <Button size="lg" className="bg-white text-blue-900 hover:bg-blue-50">
               Получить консультацию
-            </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-blue-800">
-              Наши услуги
             </Button>
           </div>
         </div>
