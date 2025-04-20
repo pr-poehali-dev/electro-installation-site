@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="bg-primary py-4 shadow-md">
       <div className="container mx-auto flex items-center justify-between px-4">
         <Link to="/" className="text-2xl font-bold text-primary-foreground">
-          ЭлектроПро
+          НАМ ЭЛЕКТРИК
         </Link>
         
         <div className="hidden md:flex space-x-6">

@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold text-white mb-4">ЭлектроПро</h3>
+            <h3 className="text-xl font-bold text-white mb-4">НАМ ЭЛЕКТРИК</h3>
             <p className="mb-4">
               Профессиональные электромонтажные работы любой сложности с гарантией качества.
             </p>
@@ -35,14 +35,14 @@ const Footer = () => {
             <h3 className="text-lg font-bold text-white mb-4">Контакты</h3>
             <ul className="space-y-2">
               <li>Телефон: +7 (XXX) XXX-XX-XX</li>
-              <li>Email: info@elektropro.ru</li>
+              <li>Email: info@namelectric.ru</li>
               <li>Адрес: г. Москва, ул. Примерная, д. 123</li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-6 text-center">
-          <p>© {new Date().getFullYear()} ЭлектроПро. Все права защищены.</p>
+          <p>© {new Date().getFullYear()} НАМ ЭЛЕКТРИК. Все права защищены.</p>
         </div>
       </div>
     </footer>
